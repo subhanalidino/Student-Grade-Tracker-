@@ -28,6 +28,9 @@ The program also displays a summary report containing each student's name and gr
 3. Enter the number of students, names, and grades when prompted.
 4. View the calculated results and summary report.
 
+## Link of the Java Code 
+StudentGrade.java
+
 ## Author
 
 **Subhan Ali Dino **
